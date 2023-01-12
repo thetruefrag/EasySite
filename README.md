@@ -1,4 +1,4 @@
-![Bannière EasySite]()
+![Bannière EasySite](assets/img/image.png)
 # EasySite
 EasySite est une template de création de site
 ## Fonctionnalités
