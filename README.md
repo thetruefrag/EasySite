@@ -1,6 +1,4 @@
 ![Bannière EasySite](assets/img/image.png)
-# EasySite
-EasySite est une template de création de site
 ## Fonctionnalités
 - Créez votre site en codant réellement, utile pour les nouveaux développerus Web.
 - Utilisez des bibliothèques personnalisés ou WordPress (inclut) pour améliorer votre code.
