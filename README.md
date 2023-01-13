@@ -1,6 +1,6 @@
 ![Bannière EasySite](assets/img/image.png)
 ## Fonctionnalités
-- Créez votre site en codant réellement, utile pour les nouveaux développerus Web.
+- Créez votre site en codant réellement, utile pour les nouveaux développeurs Web.
 - Utilisez des bibliothèques personnalisés ou WordPress (inclut) pour améliorer votre code.
 - Obtenez un code de base pour gagner en efficacité.
 ## Informations
