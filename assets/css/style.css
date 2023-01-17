@@ -1,8 +1,28 @@
 * {
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 body {
-    margin: 0;
+    width: 80%;
+    margin: 0 auto;
     font-size: 3vh;
+    text-align: center;
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    width: 25%;
+    margin: 1%;
+    padding: 1%;
 }
