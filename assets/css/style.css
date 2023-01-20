@@ -8,14 +8,8 @@ body {
     width: 80%;
     margin: 0 auto;
     font-size: 3vh;
-    /* text-align: center; */
     background: url("../img/background.jpg") no-repeat;
     background-size: cover;
-    /* position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%); */
 }
 
 img {
@@ -40,7 +34,6 @@ img {
 }
 
 a {
-    display: inline-block;
     color: white;
     text-decoration: none;
     background-color: black;
@@ -48,5 +41,5 @@ a {
     border-radius: 5px;
     width: 30%;
     margin: 1%;
-    padding: 1%;
+    padding: 2% 6%;
 }
